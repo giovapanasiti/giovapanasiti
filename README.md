@@ -19,3 +19,7 @@
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>]()
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>]()
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>]()
+
+---
+
+[![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=giovapanasiti)](https://github.com/giovapanasiti)
