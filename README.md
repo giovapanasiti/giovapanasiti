@@ -26,4 +26,4 @@
 
 ---
 
-[![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=giovapanasiti)](https://github.com/giovapanasiti)
+[![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=giovapanasiti&count_private=true)](https://github.com/giovapanasiti)
