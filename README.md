@@ -1,10 +1,15 @@
 ### Hi there, I'm Giovanni Panasiti 👋
 
+[![HitCount](http://hits.dwyl.com/giovapanasiti/giovapanasiti.svg)](http://hits.dwyl.com/giovapanasiti/giovapanasiti)
+
+
 ## I'm a Biker, Developer, and Teacher!
 - 🌱 I’m CTO at my own company [MonteDelGallo](https://montedelgallo.com/)
 - 🖥 I’m also a senior developer at [Fondazione ENPAM](https://www.enpam.it/)
 - 👯 I have fun teaching at Coding Gym's meetups
 - 🏍 If I'm not writing code I'm probably riding my motorbike 
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 📬 How to reach me: <a href="mailto:giova.panasiti@gmail.com">Let's get in touch!</a>
 
 ### Connect with me:
 
