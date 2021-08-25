@@ -1,6 +1,5 @@
 ### Hi there, I'm Giovanni Panasiti 👋
 
-[![HitCount](http://hits.dwyl.com/giovapanasiti/giovapanasiti.svg)](http://hits.dwyl.com/giovapanasiti/giovapanasiti)
 
 
 ## I'm a Biker, Developer, and Teacher!
