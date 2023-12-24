@@ -3,7 +3,7 @@
 
 
 ## I'm a Biker, Developer, and Teacher!
-- 🌱 I’m CTO at my own company [MonteDelGallo](https://montedelgallo.com/)
+- 🌱 I’m CTO at my own companies: [Consultala](https://consultala.com) & [MonteDelGallo](https://montedelgallo.com/)
 - 🖥 I’m also a senior developer at [Fondazione ENPAM](https://www.enpam.it/)
 - 👯 I have fun teaching at Coding Gym's meetups
 - 🏍 If I'm not writing code I'm probably riding my motorbike 
