@@ -19,10 +19,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>]()
+<!-- [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>]()
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>]()
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>]()
-[<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>]()
+[<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>]() -->
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,next,react,tailwind,js,html,css,aws,svelte,python,django,redis,mongo,postgres,go)](https://skillicons.dev)
+
 
 <br />
 <br />
