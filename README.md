@@ -10,7 +10,6 @@
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📬 How to reach me: <a href="mailto:giova.panasiti@gmail.com">Let's get in touch!</a>
 
-<br />
 
 ### Languages:
 
