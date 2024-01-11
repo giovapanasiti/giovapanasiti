@@ -10,11 +10,6 @@
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📬 How to reach me: <a href="mailto:giova.panasiti@gmail.com">Let's get in touch!</a>
 
-### Connect with me:
-
-[<img align="left" alt="giovapanasiti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/giovapanasiti)
-[<img align="left" alt="giovapanasiti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.it/in/giovapanasiti)
-
 <br />
 
 ### Languages:
@@ -37,6 +32,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,heroku,docker)](https://skillicons.dev)
 
+<hr>
+
+
+### Connect with me:
+
+[<img align="left" alt="giovapanasiti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/giovapanasiti)
+[<img align="left" alt="giovapanasiti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.it/in/giovapanasiti)
 
 
 <!-- [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>]()
