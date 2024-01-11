@@ -17,15 +17,32 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,js,py,ts,php,go,nodejs,elixir,)](https://skillicons.dev)
+
+### Frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=rails,django,express,wordpress,,)](https://skillicons.dev)
+
+### Data
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,kafka)](https://skillicons.dev)
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,html,css,svelte,sass,)](https://skillicons.dev)
+
+### Clouds
+
+[![My Skills](https://skillicons.dev/icons?i=aws,heroku,docker)](https://skillicons.dev)
+
+
 
 <!-- [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>]()
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>]()
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>]()
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>]() -->
-
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,next,react,tailwind,js,html,css,aws,svelte,py,sass,ts,wordpress,django,redis,mongodb,php,postgres,go,oracle,nodejs,git,docker,kafka,elixir,express,heroku,)](https://skillicons.dev)
-
 
 <br />
 <br />
